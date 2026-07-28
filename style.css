@@ -8,3 +8,8 @@ border: 1px solid white;
 font-weight: bold;
 display: block;
 opacity: 0.9;
+grid-template-columns: repeat(3, 1fr);
+row-gap: 20px;
+inline-size: 50%
+text-align: center;
+whitespace: nowrap;
