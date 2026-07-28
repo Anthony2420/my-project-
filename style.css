@@ -13,3 +13,5 @@ row-gap: 20px;
 inline-size: 50%
 text-align: center;
 whitespace: nowrap;
+no-wrap: nowrap;
+table-layout: fixed;
