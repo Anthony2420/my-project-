@@ -15,3 +15,5 @@ text-align: center;
 whitespace: nowrap;
 no-wrap: nowrap;
 table-layout: fixed;
+height: 100vh;
+elevation: 10px;
