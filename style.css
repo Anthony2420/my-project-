@@ -32,4 +32,17 @@ media: screen and (max-width: 600px) {
 }selector {
     color: blue;
     font-size: 20px;
+}video {
+    width: 100%;
+    height: auto;
+}link {
+    color: purple;
+    text-decoration: underline;
+}caption {
+    font-style: italic;
+    text-align: center;
+}select {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
 }
