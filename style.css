@@ -17,3 +17,19 @@ no-wrap: nowrap;
 table-layout: fixed;
 height: 100vh;
 elevation: 10px;
+media: screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}p {
+    color: green;
+    font-size: 30px;
+}container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}selector {
+    color: blue;
+    font-size: 20px;
+}
