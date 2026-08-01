@@ -45,4 +45,30 @@ media: screen and (max-width: 600px) {
     width: 200px;
     padding: 5px;
     font-size: 16px;
+}quote {
+    font-size: 18px;
+    color: gray;
+    border-left: 4px solid #ccc;
+    padding-left: 10px;
+    margin: 20px 0;
+}header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}nav {
+    background-color: #444;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
 }
